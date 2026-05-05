@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sdmpxs.github.io/reference-ur6jvo/sitemap.xml
